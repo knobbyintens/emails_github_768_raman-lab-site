@@ -1,0 +1,19 @@
+title: Raman Lab
+description: Efficient and reliable machine learning systems
+url: "https://raman-lab.example.org"
+baseurl: ""
+
+collections:
+  publications:
+    output: true
+    permalink: /publications/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: default
+
+markdown: kramdown
+theme: minima
