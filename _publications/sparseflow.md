@@ -2,6 +2,7 @@
 title: "SparseFlow: Structured Sparsity for Fast Inference of Mixture-of-Experts"
 venue: "ICML 2026"
 status: "accepted"
+codeurl: "https://github.com/knobbyintens/emails_github_768_sparseflow"
 ---
 
 Priya Raman, Daniel Okafor, Hana Sato
