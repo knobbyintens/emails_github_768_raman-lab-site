@@ -2,7 +2,7 @@
 title: "GraphRAG-Mini: Compact Graph Retrieval-Augmented Generation for Low-Resource Domains"
 venue: "EMNLP 2025"
 status: "published"
-codeurl: "https://github.com/ghost-mirror/graphrag-mini"
+codeurl: "https://github.com/knobbyintens/emails_github_768_graphrag-mini"
 ---
 
 Priya Raman, Maya Chen, Tomás Ferreira
